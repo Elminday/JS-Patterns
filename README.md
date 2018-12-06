@@ -1,2 +1,2 @@
 # JS-Patterns
-Javascript architecture patterns
+Javascript architecture 
